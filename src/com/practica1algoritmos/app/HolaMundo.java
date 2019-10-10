@@ -13,5 +13,8 @@ public class HolaMundo {
 		System.out.print("Pablo estuvo aqui,,, Di lo tuyo Bart!!!");
 		System.out.println("Dany estuvo aqui");
 
+		System.out.println("HDaniel999 was here");
+
+		System.out.println("Practica de pull, editar, push");
 	}
 }
