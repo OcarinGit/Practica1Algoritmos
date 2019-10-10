@@ -8,5 +8,8 @@ public class HolaMundo {
 		System.out.println("Esta es otra linea de codigo");
 		System.out.println("Dany estuvo aqui");
 		System.out.println("Dany estuvo aqui x2");
+		System.out.println("Uriel estuvo aqui");
+		System.out.print("Pablo estuvo aqui,,, Di lo tuyo Bart!!!");
+		System.out.println("Dany estuvo aqui");
 	}
 }
