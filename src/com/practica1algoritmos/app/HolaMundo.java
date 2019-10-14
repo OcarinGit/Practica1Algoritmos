@@ -25,6 +25,6 @@ public class HolaMundo {
 
 >>>>>>> 037e12ce05458f0413dbcbb58d314f83a9e9f67a
 		System.out.println("Practica de pull, editar, push");
-
+                System.out.println("I did it!");
 	}
 }
